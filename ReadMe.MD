@@ -1,0 +1,1 @@
+Run EGGMX.TRD on ZS GMX
